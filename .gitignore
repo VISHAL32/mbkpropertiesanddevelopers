@@ -1,6 +1,9 @@
- /*/*
- .html
- .css
- .js
- .png
- *.*
+*.html
+*.css
+*.js
+*.png
+ *\*
+assets\
+index.html
+style.css
+main.js
